@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8B49153C-1F64-472D-AE32-19E4EF164A55</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DeleteCharactersInRange</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>609834E4-0134-46C1-957B-3B6980E29191</key>
+		<string>https://github.com/navzou/try-delete-characters-in-range.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DeleteCharactersInRange/DeleteCharactersInRange.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>609834E4-0134-46C1-957B-3B6980E29191</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/navzou/try-delete-characters-in-range.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>609834E4-0134-46C1-957B-3B6980E29191</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>609834E4-0134-46C1-957B-3B6980E29191</string>
+			<key>IDESourceControlWCCName</key>
+			<string>try-delete-characters-in-range</string>
+		</dict>
+	</array>
+</dict>
+</plist>
